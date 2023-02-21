@@ -1,4 +1,4 @@
-# Introduction to Neural Networks
+# Convolutional Neural Networks
 
 This repository contains Jupyter notebooks for the assignments and projects completed as part of the course "Convolutional Neural Networks" within the [Andrew NG deep learning specialization](https://www.coursera.org/learn/convolutional-neural-networks) on [Coursera](https://www.coursera.org/]).
 
